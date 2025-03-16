@@ -1,0 +1,7 @@
+name: potion-waldo-translation mod
+displayName: what translation mod
+author: Roadmew
+description: 안녕! 만약 누군가 내게 묻는다면 나는 혼돈군주!
+version: 1.6.0
+hidden: true
+minGameVersion: 140
